@@ -5,6 +5,8 @@ public class SecondAutomation {
     {
         System.out.println("What Is Ide?");
         System.out.println("Packages Is Folder Where We Collected All Items");
+        System.out.println("Class is Represent Real world entitles");
+
 
     }
 }
